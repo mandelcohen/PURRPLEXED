@@ -1,4 +1,4 @@
-![Purrplexed Logo Gray](https://github.com/user-attachments/assets/96537b58-15fd-4f35-a1e2-1995c1d3b5d2)
+![Purrplexed Logo Gray](https://github.com/user-attachments/assets/03c644e6-a65f-4b74-a9cb-f011ba20f1ac)
 
 ## Game Description
 **PURRPLEXED** is a creative puzzle-solving game where players guide a unique team of cats—each with distinct personalities and abilities—through a series of intricate challenges. From the **Scaredy Cat**, who scratches through obstacles despite its timid nature, to the slow but powerful **Lazy Cat**, each feline offers strategic options for overcoming puzzles. As you progress, your clowder grows, expanding your tactical choices and unlocking new methods to tackle increasingly complex challenges.
@@ -22,7 +22,7 @@ We maintain continuous communication, assisting one another through pair program
 
 Throughout this project, we’ve learned that working with AI is both challenging and rewarding. Trello has been essential for keeping track of tasks, understanding priorities, and meeting weekly milestones. We’ve become better at splitting larger tasks into smaller, more manageable ones, and testing together daily has been a crucial part of our process. By the end, we’ve gained confidence in using Unreal Engine 5 and are proud to add this project to our portfolios.
 
-![Purr_Gameplay2](https://github.com/user-attachments/assets/81b943bf-623c-4154-9417-cd513870db59)
+![Purr_Gameplay2](https://github.com/user-attachments/assets/075ae9c0-6ce0-440a-ac8a-c411a965bd39)
 
 ## Game Mechanics Summary
 
@@ -31,7 +31,7 @@ Throughout this project, we’ve learned that working with AI is both challengin
 - All cats share a general click-to-move task, navigating via a nav mesh, with movement dynamically updated when new target points are set. 
 - Cats can be selected either by clicking on them in the level or through the HUD, which toggles a selection circle and synchronizes the HUD display.
 
-![Purr_Gameplay1](https://github.com/user-attachments/assets/300abacf-f8db-4380-828a-01fac6e11a52)
+![Purr_Gameplay1](https://github.com/user-attachments/assets/3387e4b9-8f1b-4632-b3ab-2d1540d2d148)
 
 ## AI Cat Behaviors
 
@@ -42,17 +42,18 @@ Both Lazy and Scaredy have AI Perception, which sets their primary (leftmost) br
 This layered system allows for flexible AI responses based on the context, making the gameplay dynamic and responsive.
 
 ### Lazy Cat:
-<img width="1587" alt="BT_Lazy" src="https://github.com/user-attachments/assets/7e635557-629e-448b-a48f-57a3f44737b8">
-
+<img width="1587" alt="BT_Lazy" src="https://github.com/user-attachments/assets/f12b3c21-3faf-457d-8f94-4ffd0e52a1b4">
 
 ### Scaredy Cat:
-<img width="1690" alt="BT_Scaredy" src="https://github.com/user-attachments/assets/3edb761d-7cc9-4e7e-ba16-94580754de3d">
+<img width="1690" alt="BT_Scaredy" src="https://github.com/user-attachments/assets/974a4e13-4090-449c-94e5-ce3d16a890df">
 
 ## Screenshots:
-![Purr_MainMenu](https://github.com/user-attachments/assets/0e40d75e-babc-4b0a-8996-2f5aba8555cb)
-![Purr_Landscape](https://github.com/user-attachments/assets/63bb7308-d874-4681-9e05-e0ab5b6dea1a)
-![Purr_Cats](https://github.com/user-attachments/assets/a0c628c9-823b-46b0-a33c-40fb971e392f)
+![Purr_MainMenu](https://github.com/user-attachments/assets/ff1a3340-5427-427b-ad9b-5e739175566c)
+![Purr_Landscape](https://github.com/user-attachments/assets/bf2a097b-d3be-4983-bc46-5cf559fd5cca)
+![Purr_Cats](https://github.com/user-attachments/assets/0ae0ab93-6f05-4e07-aee2-cc00c21dbc20)
+
 
 ## A team effort by:
-![MAGGAM Logo White](https://github.com/user-attachments/assets/84b72adb-5c67-4e0d-8a41-f760b9624d4b)
+![MAGGAM Logo White](https://github.com/user-attachments/assets/29f59185-7c28-413f-812b-de48d1902976)
+
 
